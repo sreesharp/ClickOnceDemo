@@ -1,0 +1,2 @@
+MainPackage=C:\Sreejumon\Projects\ClickOnceDemo\HelloWorld\HelloWorld.Windows\bin\x86\Release\HelloWorld.Windows_1.0.0.0_Bundle\HelloWorld.Windows_1.0.0.0_x86.appx
+SymbolPackage=C:\Sreejumon\Projects\ClickOnceDemo\HelloWorld\HelloWorld.Windows\AppPackages\HelloWorld.Windows_1.0.0.0_Test\HelloWorld.Windows_1.0.0.0_x86.appxsym
